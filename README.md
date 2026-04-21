@@ -109,10 +109,4 @@ make clean
 - Implement full AST generation and semantic checks
 - Add sample programs and test cases
 
-## Author
 
-Vishakha Khetan
-
-GitHub: kVishakhha
-
-⭐ If you like this project, consider giving it a star!
